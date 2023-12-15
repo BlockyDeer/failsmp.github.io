@@ -1,0 +1,5 @@
+baseURL = 'https://blockydeer.github.io/'
+languageCode = 'zh-cn'
+title = 'FAIL SMP官方网站'
+
+theme = "hugo-book"
