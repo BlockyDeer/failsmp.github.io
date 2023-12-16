@@ -1,6 +1,6 @@
 ---
 title: "服务器规则"
-weight: 997
+weight: 2
 # bookFlatSection: false
 # bookToc: true
 # bookHidden: false

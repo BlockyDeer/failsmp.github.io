@@ -1,7 +1,6 @@
 ---
 title: "旧FAIL SMP原则"
-weight: 997
-url: /
+weight: 0
 # bookFlatSection: false
 # bookToc: true
 # bookHidden: false
