@@ -1,7 +1,7 @@
 ---
 title: "首页"
 weight: 1
-url: /
+url: /home
 # bookFlatSection: false
 # bookToc: true
 # bookHidden: false
