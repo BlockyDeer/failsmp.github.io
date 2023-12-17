@@ -7,7 +7,7 @@ url: /
 # bookHidden: false
 # bookCollapseSection: false
 # bookComments: false
-bookSearchExclude: true
+bookSearchExclude: 
 ---
 
 # 欢迎来到FAIL SMP——重新演绎SMP玩法
@@ -16,4 +16,4 @@ FAIL SMP是一个支持复制物品和PVP的SMP(Survival Multi-Player)的服务�
 
 如果你不会建筑和PVP之类的也没有关系，只要你拥有对MC的热爱，我们就欢迎你的到来！♪(´▽｀)
 
-<font size=7>加入我们！</font>
+点击这里--->[加入我们](https://failsmp.github.io/docs/join_us)
