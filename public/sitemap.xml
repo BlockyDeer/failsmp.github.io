@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blockydeer.github.io/</loc>
+    <loc>https://blockydeer.github.io/home/</loc>
   </url><url>
     <loc>https://blockydeer.github.io/docs/server_rules/</loc>
   </url><url>
@@ -10,12 +10,12 @@
   </url><url>
     <loc>https://blockydeer.github.io/docs/</loc>
   </url><url>
-    <loc>https://blockydeer.github.io/</loc>
-  </url><url>
     <loc>https://blockydeer.github.io/tags/</loc>
   </url><url>
     <loc>https://blockydeer.github.io/docs/join_us/</loc>
   </url><url>
     <loc>https://blockydeer.github.io/docs/other/old_failsmp_laws/</loc>
+  </url><url>
+    <loc>https://blockydeer.github.io/</loc>
   </url>
 </urlset>
