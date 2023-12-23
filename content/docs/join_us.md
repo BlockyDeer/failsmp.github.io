@@ -29,7 +29,7 @@ bookSearchExclude: true
 
 ### 群主及管理员介绍
 
-如果你不想读这一部分，你可以直接跳到[第三步](./#%E7%AC%AC%E4%B8%89%E6%AD%A5-mc%E5%90%AF%E5%8A%A8)
+如果你不想读这一部分，你可以直接跳到[第三步](./#第三步-mc-启动)
 
 **群主：FAIL SMP**
 
@@ -46,7 +46,7 @@ bookSearchExclude: true
 
 ## 第三步 MC 启动！
 
-打开你的 MC，MC 版本目前来说支持 Minecarft Java 1.17.1~1.21.2。此外，根据[服务器规则第一条](<../server_rules/#:~:text=%E7%A6%81%E6%AD%A2%E4%BD%BF%E7%94%A8%E6%A0%B8%E5%BF%83%E7%89%88%E6%9C%AC%E4%B8%BA%201.16.x%20%E4%BB%A5%E4%B8%8B(%E4%B8%8D%E5%90%AB%201.16.x)%E5%AE%A2%E6%88%B7%E7%AB%AF%E8%BF%9B%E6%9C%8D%EF%BC%8C%E6%97%A0%E8%AE%BA%E6%98%AF%E4%BD%95%E7%A7%8D%E6%8A%80%E6%9C%AF%E6%89%8B%E6%AE%B5%EF%BC%8C%E4%B8%80%E6%97%A6%E8%A2%AB%E5%8F%91%E7%8E%B0/%E4%B8%BE%E6%8A%A5%E7%9B%B4%E6%8E%A5%E4%B8%8E%E5%BC%80%E6%8C%82%E7%AD%89%E8%A7%86%E4%B9%8B>)受到支持的版本还有 Minecraft 1.16.5。如果你想要使用该版本进服，请自备技术手段。
+打开你的 MC，MC 版本目前来说支持 Minecarft Java 1.17.1~1.20.2。此外，根据[服务器规则第一条](<../server_rules/#:~:text=%E7%A6%81%E6%AD%A2%E4%BD%BF%E7%94%A8%E6%A0%B8%E5%BF%83%E7%89%88%E6%9C%AC%E4%B8%BA%201.16.x%20%E4%BB%A5%E4%B8%8B(%E4%B8%8D%E5%90%AB%201.16.x)%E5%AE%A2%E6%88%B7%E7%AB%AF%E8%BF%9B%E6%9C%8D%EF%BC%8C%E6%97%A0%E8%AE%BA%E6%98%AF%E4%BD%95%E7%A7%8D%E6%8A%80%E6%9C%AF%E6%89%8B%E6%AE%B5%EF%BC%8C%E4%B8%80%E6%97%A6%E8%A2%AB%E5%8F%91%E7%8E%B0/%E4%B8%BE%E6%8A%A5%E7%9B%B4%E6%8E%A5%E4%B8%8E%E5%BC%80%E6%8C%82%E7%AD%89%E8%A7%86%E4%B9%8B>)受到支持的版本还有 Minecraft 1.16.5。如果你想要使用该版本进服，请自备技术手段。
 
 暂不提供基岩版直连服务器的方式。
 
