@@ -11,7 +11,7 @@ bookSearchExclude: true
 
 # 公告板
 
-## 正在筹备暑假开服
+## 正在筹备寒假开服
 
 已经数不清第多少次开服了 QwQ。KOFTWAR 会给我们带来新的机器。更好性能！
 
