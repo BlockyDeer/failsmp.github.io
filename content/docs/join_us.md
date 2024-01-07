@@ -55,3 +55,7 @@ bookSearchExclude: true
 **注意 ⚠️：请先确保你已完成[第二步](./#:~:text=%E4%B8%BB%E6%9D%A5%E8%8E%B7%E5%8F%96-,%E7%99%BD%E5%90%8D%E5%8D%95,-%23)**
 
 服务器 IP：`failsmp.cc`
+
+## 一些建议
+
+去看看[服务器规则](../server_rules)，或者看看[官方写给新手玩家的新手指南](../tutorial)
