@@ -15,6 +15,11 @@ FAIL SMP仍在更新……
 
 少女祈祷中……
 
+## FAIL SMP更新-Ver3.2.4
+
+1. 调整反作弊系统，削弱部分检测
+2. tab及服务器标语小范围微调
+
 ## FAIL SMP更新-Ver3.2.3
 
 - 关闭了”显示登入的玩家的所有账号“选项（displayOtherAccounts）
