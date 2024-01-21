@@ -25,7 +25,7 @@ bookSearchExclude: true
 
 服务器已暂时取消白名单。
 
-公测IP：
+公测IP：eap.failsmp.cc
 
 本次公测的将会合并于正式服的更改请另见[更新日志-Ver3.2.4](../changelog)
 
